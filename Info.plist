@@ -11,7 +11,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>DCSDictionaryCopyright</key>
-	<string>Copyright © 2007-2018 usrsse2</string>
+	<string>This dictionary was created from man pages using ManToDictionary by usrsse2 (https://github.com/usr-sse2/ManToDictionary). All contents belong to creators of the original man pages.</string>
 	<key>DCSDictionaryManufacturerName</key>
 	<string>usrsse2</string>
 	<key>DCSDictionaryFrontMatterReferenceID</key>
