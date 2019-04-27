@@ -7,6 +7,7 @@ This is a program to convert `man` pages to Apple Dictionary dictionaries. It al
 
 
 ### Usage
+0. Download **Additional Tools for Xcode** from https://developer.apple.com and put Dictionary Development Kit from it to `/DevTools/Utilities/Dictionary Development Kit` (path can be changed in `Makefile`).
 1. Create `~/Library/Dictionaries` directory, if it doesn't exist.
 2. Specify all man page directories in `manDirs` array in `main.swift`
 3. Compile and run the program. It will build dictionaries and install them in `~/Library/Dictionaries`.
