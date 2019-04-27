@@ -29,6 +29,7 @@
 		355AA769227394D800392DC6 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		355AA76A227394D800392DC6 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		355AA76B227394D800392DC6 /* Dictionary.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = Dictionary.css; sourceTree = "<group>"; };
+		35BC9FA02274632A00896C94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		355AA75622704D0400392DC6 = {
 			isa = PBXGroup;
 			children = (
+				35BC9FA02274632A00896C94 /* README.md */,
 				355AA76B227394D800392DC6 /* Dictionary.css */,
 				355AA76A227394D800392DC6 /* Info.plist */,
 				355AA769227394D800392DC6 /* Makefile */,
